@@ -1,1 +1,7 @@
-
+192.168.79.1 router
+192.168.79.1 router.home.tyates.one
+192.168.1.4 DS1517
+192.168.1.4 nas-matts
+192.168.79.20 rasp1
+192.168.79.20 rasp1.home.tyates.one
+192.168.79.21 nas
