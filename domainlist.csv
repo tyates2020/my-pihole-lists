@@ -1,7 +1,7 @@
 id,type,domain,enabled,date_added,date_modified,comment
 4,0,audible.sc.omtrdc.net,1,1599874755,1610332845,"Added from Query Log"
 5,1,js.atomicsearchwidget.com,1,1597627088,1609727846,"Added from Query Log"
-6,2,(\.|^)tyates\.one$,1,1610883677,1613163967,
+6,2,(\.|^)tyates\.one$,1,1610883677,1613163967,""
 7,1,events.mapbox.com,1,1610883860,1613163966,"Added from Query Log"
 8,1,assets.adobedtm.com,1,1610883873,1613163966,"Added from Query Log"
 9,1,firebaseremoteconfig.googleapis.com,1,1599879248,1609727846,"Added from Query Log"
@@ -10,8 +10,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 13,1,userlocation.googleapis.com,1,1599882444,1610332843,"Added from Query Log"
 14,1,gzlrviampfo,1,1599884548,1610332843,"Added from Query Log"
 16,1,3uc6h1j9-6a90f9a9a12eec86bfc91990c308bbe42ed5e810-mob.d.aa.online-metrix.net,1,1599884587,1610332843,"Added from Query Log"
-18,3,(\.|^)ads\.adthrive\.com$,1,1598041239,1609727847,
-20,3,(\.|^)cursecdn\.com$,1,1598150503,1609727847,
+18,3,(\.|^)ads\.adthrive\.com$,1,1598041239,1609727847,""
+20,3,(\.|^)cursecdn\.com$,1,1598150503,1609727847,""
 21,1,gtazjdosxuo,1,1599892372,1610332843,"Added from Query Log"
 22,1,3uc6h1j9-e045d8a4e0096c485a3a8db1da00ca3a67ecad94-mob.d.aa.online-metrix.net,1,1599909256,1609727846,"Added from Query Log"
 23,1,e.0.9.0.b.0.2.d.f.e.3.a.7.2.8.4.0.1.0.0.4.b.a.7.a.f.8.a.5.b.d.f.ip6.arpa,1,1601042796,1609727846,"Added from Query Log"
@@ -27,21 +27,21 @@ id,type,domain,enabled,date_added,date_modified,comment
 38,1,flatanalytics.com,1,1600200698,1609727846,"Added from Query Log"
 40,1,e11.whatsapp.net,1,1600508316,1609727846,"Added from Query Log"
 41,1,v.whatsapp.net,1,1600508327,1609727846,"Added from Query Log"
-42,3,(\.|^)whatsapp\.com$,1,1600508462,1609727847,
-43,3,(\.|^)tiktok$,1,1600508474,1609727847,
-45,2,(\.|^)netflix\.com$,1,1600571822,1613163967,
+42,3,(\.|^)whatsapp\.com$,1,1600508462,1609727847,""
+43,3,(\.|^)tiktok$,1,1600508474,1609727847,""
+45,2,(\.|^)netflix\.com$,1,1600571822,1613163967,""
 47,1,video-dfw5-1.xx.fbcdn.net,1,1601074095,1609727846,"Added from Query Log"
 49,1,ramp.purch.com,1,1601261780,1609727846,"Added from Query Log"
-52,3,(\.|^)https://ads\.trafficjunky\.net/$,1,1601502605,1609727847,
-53,3,(\.|^)afcpatrk\.com$,1,1601502609,1609727847,
-54,3,(\.|^)trafficjunky$,1,1601502640,1609727847,
-55,3,(\.|^)akamaiedge$,1,1601502816,1609727847,
-56,3,(\.|^)adtng$,1,1601502951,1609727847,
+52,3,(\.|^)https://ads\.trafficjunky\.net/$,1,1601502605,1609727847,""
+53,3,(\.|^)afcpatrk\.com$,1,1601502609,1609727847,""
+54,3,(\.|^)trafficjunky$,1,1601502640,1609727847,""
+55,3,(\.|^)akamaiedge$,1,1601502816,1609727847,""
+56,3,(\.|^)adtng$,1,1601502951,1609727847,""
 57,1,sdk.pushmessage.samsung.com,1,1602804936,1610332843,"Added from Query Log"
 58,1,ureca.samsungapps.com,1,1602804944,1610332843,"Added from Query Log"
 59,0,analytics.twitter.com,1,1602807242,1610332845,"Added from Query Log"
-60,3,(\.|^)superfastclick\.com$,1,1601506716,1609727847,
-61,3,(\.|^)sciencewhategg6\.live$,1,1601686770,1609727847,
+60,3,(\.|^)superfastclick\.com$,1,1601506716,1609727847,""
+61,3,(\.|^)sciencewhategg6\.live$,1,1601686770,1609727847,""
 66,1,choogeet.net,1,1603773910,1609727846,"Added from Query Log"
 68,1,robotcaptcha6.info,1,1603773922,1609727846,"Added from Query Log"
 69,1,mobiles-global-apps-storages.life,1,1603773925,1609727846,"Added from Query Log"
@@ -67,21 +67,21 @@ id,type,domain,enabled,date_added,date_modified,comment
 95,1,hw-cdn2.trafficjunky.net,1,1604122115,1609727847,"Added from Query Log"
 96,1,static.trafficjunky.com,1,1604122122,1609727847,"Added from Query Log"
 101,0,stats.kaltura.com,1,1604341991,1609727851,"Added from Query Log"
-102,2,(\.|^)kaltura\.com$,1,1604342076,1609727851,
+102,2,(\.|^)kaltura\.com$,1,1604342076,1609727851,""
 103,0,js.atomicsearchwidget.com,1,1604343016,1609727851,"Added from Query Log"
-104,2,(\.|^)evaluationkit\.com$,1,1604343391,1609727852,
-106,2,(\.|^)comptia\.com$,1,1604696687,1613163967,
-107,2,(\.|^)comptia\.org$,1,1604696702,1613163967,
-108,2,(\.|^)greenbone\.net$,1,1604718474,1609727852,
+104,2,(\.|^)evaluationkit\.com$,1,1604343391,1609727852,""
+106,2,(\.|^)comptia\.com$,1,1604696687,1613163967,""
+107,2,(\.|^)comptia\.org$,1,1604696702,1613163967,""
+108,2,(\.|^)greenbone\.net$,1,1604718474,1609727852,""
 110,1,ecn.dev.virtualearth.net,1,1604731777,1609727847,"Added from Query Log"
-111,3,(\.|^)nsimg\.net$,1,1604812381,1609727847,
-112,3,(\.|^)2020mustang\.com$,1,1604812450,1609727847,
-113,3,(\.|^)ang-content\.com$,1,1604812523,1609727847,
-114,3,(\.|^)trafficjunkey\.net$,1,1604812623,1609727847,
-115,3,(\.|^)goguardian\.com$,1,1604812658,1609727847,
-116,3,(\.|^)iamhansen$,1,1604812781,1609727847,
-117,3,(\.|^)iamhansen\.net$,1,1604812788,1609727847,
-118,3,(\.|^)adtng\.com$,1,1604812836,1609727847,
+111,3,(\.|^)nsimg\.net$,1,1604812381,1609727847,""
+112,3,(\.|^)2020mustang\.com$,1,1604812450,1609727847,""
+113,3,(\.|^)ang-content\.com$,1,1604812523,1609727847,""
+114,3,(\.|^)trafficjunkey\.net$,1,1604812623,1609727847,""
+115,3,(\.|^)goguardian\.com$,1,1604812658,1609727847,""
+116,3,(\.|^)iamhansen$,1,1604812781,1609727847,""
+117,3,(\.|^)iamhansen\.net$,1,1604812788,1609727847,""
+118,3,(\.|^)adtng\.com$,1,1604812836,1609727847,""
 122,2,(\.|^)goguardian\.com$,1,1605799203,1609727852,"Brandons monitoring software for his laptop GPSB"
 123,1,cdn.runative-syndicate.com.fpbns.net,1,1606184045,1609727847,"Added from Query Log"
 125,1,cdn.runative-syndicate.com,1,1606184054,1609727847,"Added from Query Log"
@@ -91,13 +91,13 @@ id,type,domain,enabled,date_added,date_modified,comment
 129,1,www.newyorker.com,1,1606184087,1609727847,"Added from Query Log"
 131,1,calm-cabbage-a9umxyb6jlwq9ypiv5av5m12.herokudns.com,1,1606324091,1609727847,"Added from Query Log"
 133,0,www-google-analytics.l.google.com,1,1606324129,1609727851,"Added from Query Log"
-136,2,(\.|^)pornhub\.com$,1,1607548842,1609727852,
+136,2,(\.|^)pornhub\.com$,1,1607548842,1609727852,""
 137,1,sitereview.zscaler.com,1,1607967646,1609727847,"Added from Query Log"
 141,1,c5x8i7c7.ssl.hwcdn.net,1,1608353818,1609727847,"Added from Query Log"
 142,1,fp.msedge.net,1,1609733727,1609733727,"Added from Query Log"
 143,1,a-ring.msedge.net,1,1609733731,1609733731,"Added from Query Log"
 145,1,a-ring-fallback.msedge.net,1,1609733786,1609733786,"Added from Query Log"
-146,3,(\.|^)msedge\.net$,1,1609733818,1609733818,
+146,3,(\.|^)msedge\.net$,1,1609733818,1609733818,""
 148,1,vngewijctbqdy.lan,1,1609733962,1609733962,"Added from Query Log"
 152,1,live-screencaps.vscdns.com,1,1609890921,1609890921,"Added from Query Log"
 153,1,dns.msftncsi.com,1,1610332214,1610332214,"Added from Query Log"
@@ -107,7 +107,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 159,0,us-east-1.prod.pr.analytics.console.aws.a2z.com,1,1610334734,1610334734,"Added from Query Log"
 160,1,wpad.home.tyates.one,1,1611064089,1611064089,"Added from Query Log"
 161,1,dealer.spotify.com,1,1611064096,1611064096,"Added from Query Log"
-163,2,(\.|^)xvideos\.com$,1,1611064629,1611064629,
+163,2,(\.|^)xvideos\.com$,1,1611064629,1611064629,""
 164,1,connectivity-check.ubuntu.com.home.tyates.one,1,1611205920,1611205920,"Added from Query Log"
 165,1,connectivity-check.ubuntu.com,1,1611205927,1611205927,"Added from Query Log"
 167,1,daup.map.baidu.com,1,1611976228,1611976228,"Added from Query Log"
@@ -123,7 +123,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 179,0,mpsnare.iesnare.com,1,1612907546,1612907546,"Added from Query Log"
 181,0,stt.dell.com,1,1612907634,1612907634,"Added from Query Log"
 182,1,api.spotify.com,1,1613195724,1613195724,"Added from Query Log"
-183,3,(\.|^)spotify$,1,1613195743,1613195743,
+183,3,(\.|^)spotify$,1,1613195743,1613195743,""
 184,0,g.live.com,1,1613350940,1613350940,"Added from Query Log"
 185,0,watson.telemetry.microsoft.com,1,1613350944,1613350945,"Added from Query Log"
 186,0,catalog.gamepass.com,1,1613351042,1613351042,"Added from Query Log"
@@ -135,9 +135,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 193,1,xtrapath2.izatcloud.net,1,1613962540,1613962540,"Added from Query Log"
 194,0,siteintercept.qualtrics.com,1,1614025754,1614025754,"Added from Query Log"
 195,0,s.go-mpulse.net,1,1614025932,1614025932,"Added from Query Log"
-196,2,(\.|^)akstat\.io$,1,1614026103,1614026103,
-197,2,(\.|^)https://www\.bing\.com/api/maps/mapcontrol$,1,1614026144,1614026144,
-198,2,(\.|^)www\.bing\.com/api/maps/$,1,1614026191,1614026191,
+196,2,(\.|^)akstat\.io$,1,1614026103,1614026103,""
+197,2,(\.|^)https://www\.bing\.com/api/maps/mapcontrol$,1,1614026144,1614026144,""
+198,2,(\.|^)www\.bing\.com/api/maps/$,1,1614026191,1614026191,""
 199,1,c.go-mpulse.net,1,1614026358,1614026358,"Added from Query Log"
 201,1,mail.google.com,1,1614026375,1614026375,"Added from Query Log"
 202,1,vidtech.cbsinteractive.com,1,1614126388,1614126388,"Added from Query Log"
@@ -147,4 +147,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 206,1,cnet4.cbsistatic.com,1,1614126518,1614126518,"Added from Query Log"
 207,1,cdn.cookielaw.org,1,1614126529,1614126529,"Added from Query Log"
 208,1,tru.am,1,1614126540,1614126540,"Added from Query Log"
-209,1,pornhub.com,1,1614129716,1614129716,
+209,1,pornhub.com,1,1614129716,1614129716,""
