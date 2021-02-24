@@ -10,7 +10,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 13,1,userlocation.googleapis.com,1,1599882444,1610332843,"Added from Query Log"
 14,1,gzlrviampfo,1,1599884548,1610332843,"Added from Query Log"
 16,1,3uc6h1j9-6a90f9a9a12eec86bfc91990c308bbe42ed5e810-mob.d.aa.online-metrix.net,1,1599884587,1610332843,"Added from Query Log"
-17,1,wpad.lan,1,1597709696,1609727846,"Added from Query Log"
 18,3,(\.|^)ads\.adthrive\.com$,1,1598041239,1609727847,
 20,3,(\.|^)cursecdn\.com$,1,1598150503,1609727847,
 21,1,gtazjdosxuo,1,1599892372,1610332843,"Added from Query Log"
