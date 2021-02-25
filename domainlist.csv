@@ -152,3 +152,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 213,1,prod-celltw.secb2b.com,1,1614204241,1614204241,"Added from Query Log"
 214,1,service.game-mode.net,1,1614204314,1614204314,"Added from Query Log"
 215,0,outlookmobile-office365-tas.msedge.net,1,1614204464,1614204464,"Added from Query Log"
+216,1,updates.logitech.com,1,1614221689,1614221689,"Added from Query Log"
+217,1,time.google.com,1,1614221876,1614221876,"Added from Query Log"
