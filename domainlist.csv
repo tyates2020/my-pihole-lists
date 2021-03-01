@@ -154,3 +154,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 215,0,outlookmobile-office365-tas.msedge.net,1,1614204464,1614204464,"Added from Query Log"
 216,1,updates.logitech.com,1,1614221689,1614221689,"Added from Query Log"
 217,1,time.google.com,1,1614221876,1614221876,"Added from Query Log"
+218,0,api.amplitude.com,1,1614545614,1614545614,"Added from Query Log"
+220,0,static.chartbeat.com,1,1614545628,1614545628,"Added from Query Log"
+221,0,ping.chartbeat.net,1,1614545682,1614545682,"Added from Query Log"
+223,1,logx.optimizely.com,1,1614545891,1614545891,"Added from Query Log"
+224,1,analytics.google.com,1,1614545903,1614545903,"Added from Query Log"
