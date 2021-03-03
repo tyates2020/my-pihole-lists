@@ -114,7 +114,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 168,1,passwordsleakcheck-pa.googleapis.com,1,1611976488,1611976488,"Added from Query Log"
 169,0,mobile.pipe.aria.microsoft.com,1,1612303708,1612303708,"Added from Query Log"
 170,1,statics-marketingsites-eus-ms-com.akamaized.net,1,1612303724,1612303724,"Added from Query Log"
-171,1,spoprod-a.akamaihd.net,1,1612303734,1612303734,"Added from Query Log"
 172,1,location.services.mozilla.com,1,1612738543,1612738543,"Added from Query Log"
 173,0,nexus.ensighten.com,1,1612907445,1612907445,"Added from Query Log"
 174,0,www.googletagmanager.com,1,1612907450,1612907450,"Added from Query Log"
@@ -161,3 +160,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 225,0,nexusrules.officeapps.live.com,1,1614638276,1614638276,"Added from Query Log"
 228,1,www.facebook.com,1,1614713368,1614713368,"Added from Query Log"
 229,1,bam-cell.nr-data.net,1,1614721299,1614721299,"Added from Query Log"
+230,0,web.vortex.data.microsoft.com,1,1614747776,1614747776,"Added from Query Log"
+231,0,spoprod-a.akamaihd.net,1,1614747908,1614747908,"Added from Query Log"
