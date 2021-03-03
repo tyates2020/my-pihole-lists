@@ -127,7 +127,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 184,0,g.live.com,1,1613350940,1613350940,"Added from Query Log"
 185,0,watson.telemetry.microsoft.com,1,1613350944,1613350945,"Added from Query Log"
 186,0,catalog.gamepass.com,1,1613351042,1613351042,"Added from Query Log"
-187,1,www.facebook.com,1,1613351048,1613351048,"Added from Query Log"
 188,0,apresolve.spotify.com,1,1613357979,1613357979,"Added from Query Log"
 189,1,trycars.club,1,1613408387,1613408387,"Added from Query Log"
 190,1,lawiersenadrey.webcam,1,1613408399,1613408399,"Added from Query Log"
@@ -160,3 +159,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 223,1,logx.optimizely.com,1,1614545891,1614545891,"Added from Query Log"
 224,1,analytics.google.com,1,1614545903,1614545903,"Added from Query Log"
 225,0,nexusrules.officeapps.live.com,1,1614638276,1614638276,"Added from Query Log"
+228,1,www.facebook.com,1,1614713368,1614713368,"Added from Query Log"
+229,1,bam-cell.nr-data.net,1,1614721299,1614721299,"Added from Query Log"
