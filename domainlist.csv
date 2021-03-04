@@ -137,7 +137,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 197,2,(\.|^)https://www\.bing\.com/api/maps/mapcontrol$,1,1614026144,1614026144,""
 198,2,(\.|^)www\.bing\.com/api/maps/$,1,1614026191,1614026191,""
 199,1,c.go-mpulse.net,1,1614026358,1614026358,"Added from Query Log"
-201,1,mail.google.com,1,1614026375,1614026375,"Added from Query Log"
 202,1,vidtech.cbsinteractive.com,1,1614126388,1614126388,"Added from Query Log"
 203,1,dpm.demdex.net,1,1614126394,1614126394,"Added from Query Log"
 204,1,cnetvideo.cbsistatic.com,1,1614126397,1614126397,"Added from Query Log"
@@ -162,3 +161,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 229,1,bam-cell.nr-data.net,1,1614721299,1614721299,"Added from Query Log"
 230,0,web.vortex.data.microsoft.com,1,1614747776,1614747776,"Added from Query Log"
 231,0,spoprod-a.akamaihd.net,1,1614747908,1614747908,"Added from Query Log"
+232,0,mail.google.com,1,1614818869,1614818869,"Added from Query Log"
