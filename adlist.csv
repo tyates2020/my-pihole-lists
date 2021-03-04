@@ -1,12 +1,12 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1599767346,1610332842,"Migrated from /etc/pihole/adlists.list",1614485043
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1599767346,1610332842,"Migrated from /etc/pihole/adlists.list",1614821691
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1599767346,1610332842,"Migrated from /etc/pihole/adlists.list",""
-5,https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list,1,1599769181,1610332842,"",1614485075
-6,https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt,1,1599769187,1610332842,"",1614485076
-7,https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-snapchat.txt,1,1599769193,1610332843,"",1614485083
-8,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1599769197,1610332843,"",1613959158
-9,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1599769203,1610332843,"",1613959159
+5,https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list,1,1599769181,1610332842,"",1614821732
+6,https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt,1,1599769187,1610332842,"",1614821734
+7,https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-snapchat.txt,1,1599769193,1610332843,"",1614821736
+8,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1599769197,1610332843,"",1614821737
+9,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1599769203,1610332843,"",1614821739
 10,https://hosts-file.net/ad_servers.txt,1,1599769207,1610332843,"",""
 11,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts,1,1599769211,1610332843,"",""
-12,https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt,1,1599769219,1610332843,"",1614485088
+12,https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt,1,1599769219,1610332843,"",1614821741
 13,https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt,0,1601503449,1610332843,"",""
