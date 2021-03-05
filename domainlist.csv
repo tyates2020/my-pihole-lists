@@ -145,7 +145,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 207,1,cdn.cookielaw.org,1,1614126529,1614126529,"Added from Query Log"
 208,1,tru.am,1,1614126540,1614126540,"Added from Query Log"
 209,1,pornhub.com,1,1614129716,1614129716,""
-210,1,crl.identrust.com,1,1614203543,1614203543,"Added from Query Log"
 213,1,prod-celltw.secb2b.com,1,1614204241,1614204241,"Added from Query Log"
 214,1,service.game-mode.net,1,1614204314,1614204314,"Added from Query Log"
 215,0,outlookmobile-office365-tas.msedge.net,1,1614204464,1614204464,"Added from Query Log"
@@ -164,3 +163,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 232,0,mail.google.com,1,1614818869,1614818869,"Added from Query Log"
 233,1,consent.cookiebot.com,1,1614894836,1614894836,"Added from Query Log"
 234,3,(\.|^)chegg\.com$,1,1614900808,1614900808,
+235,0,crl.identrust.com,1,1614963658,1614963658,"Added from Query Log"
