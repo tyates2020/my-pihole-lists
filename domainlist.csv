@@ -162,3 +162,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 230,0,web.vortex.data.microsoft.com,1,1614747776,1614747776,"Added from Query Log"
 231,0,spoprod-a.akamaihd.net,1,1614747908,1614747908,"Added from Query Log"
 232,0,mail.google.com,1,1614818869,1614818869,"Added from Query Log"
+233,1,consent.cookiebot.com,1,1614894836,1614894836,"Added from Query Log"
+234,3,(\.|^)chegg\.com$,1,1614900808,1614900808,
