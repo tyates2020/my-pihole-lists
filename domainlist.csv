@@ -160,3 +160,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 236,0,fp.msedge.net,1,1614978652,1614978652,"Added from Query Log"
 238,0,az725175.vo.msecnd.net,1,1614979333,1614979333,"Added from Query Log"
 239,0,c1.microsoft.com,1,1614979384,1614979384,"Added from Query Log"
+240,1,files.ciditools.com,1,1615053691,1615053691,"Added from Query Log"
+241,1,connectivitycheck.gstatic.com,1,1615053751,1615053751,"Added from Query Log"
