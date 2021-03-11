@@ -140,3 +140,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 243,0,connectivitycheck.gstatic.com,1,1615139711,1615139711,"Added from Query Log"
 245,3,(\.|^)avast\.com$,1,1615404435,1615404435,
 246,2,(\.|^)att\.com$,1,1615404448,1615404448,
+247,1,atc.studybreakmedia.com,1,1615432355,1615432355,"Added from Query Log"
+248,1,connect.facebook.net,1,1615432372,1615432372,"Added from Query Log"
