@@ -143,3 +143,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 247,1,atc.studybreakmedia.com,1,1615432355,1615432355,"Added from Query Log"
 248,1,connect.facebook.net,1,1615432372,1615432372,"Added from Query Log"
 249,1,edge.gycpi.b.yahoodns.net,1,1615785278,1615785278,"Added from Query Log"
+250,3,(\.|^)*$,1,1615931889,1615931897,
