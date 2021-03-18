@@ -149,3 +149,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 254,1,media.studybreakmedia.com,1,1616019692,1616019692,"Added from Query Log"
 255,1,gdpr.studybreakmedia.com,1,1616019694,1616019694,"Added from Query Log"
 256,3,(\.|^)studybreakmedia\.com$,1,1616019773,1616019773,
+257,1,dualstack.com.imgix.map.fastly.net,1,1616043623,1616043623,"Added from Query Log"
