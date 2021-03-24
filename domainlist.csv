@@ -129,7 +129,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 223,1,logx.optimizely.com,1,1614545891,1614545891,"Added from Query Log"
 224,1,analytics.google.com,1,1614545903,1614545903,"Added from Query Log"
 225,0,nexusrules.officeapps.live.com,1,1614638276,1614638276,"Added from Query Log"
-228,1,www.facebook.com,1,1614713368,1614713368,"Added from Query Log"
 229,1,bam-cell.nr-data.net,1,1614721299,1614721299,"Added from Query Log"
 230,0,web.vortex.data.microsoft.com,1,1614747776,1614747776,"Added from Query Log"
 231,0,spoprod-a.akamaihd.net,1,1614747908,1614747908,"Added from Query Log"
@@ -141,7 +140,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 245,3,(\.|^)avast\.com$,1,1615404435,1615404435,
 246,2,(\.|^)att\.com$,1,1615404448,1615404448,
 247,1,atc.studybreakmedia.com,1,1615432355,1615432355,"Added from Query Log"
-248,1,connect.facebook.net,1,1615432372,1615432372,"Added from Query Log"
 249,1,edge.gycpi.b.yahoodns.net,1,1615785278,1615785278,"Added from Query Log"
 250,3,(\.|^)*$,1,1615931889,1615931897,
 251,0,www.googleadservices.com,1,1615943484,1615943484,"Added from Query Log"
