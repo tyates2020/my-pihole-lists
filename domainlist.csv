@@ -163,3 +163,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 274,1,doubleclick.net,1,1617379049,1617379049,
 275,3,(\.|^)doubleclick\.net$,1,1617379089,1617379089,
 276,0,www.chegg.com,1,1617382206,1617382206,"Added from Query Log"
+277,1,f.shared.global.fastly.net,1,1618166806,1618166806,"Added from Query Log"
+278,1,ck.lendingtree.com,1,1618166818,1618166818,"Added from Query Log"
