@@ -67,7 +67,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 103,0,js.atomicsearchwidget.com,1,1604343016,1609727851,"Added from Query Log"
 104,2,(\.|^)evaluationkit\.com$,1,1604343391,1609727852,""
 106,2,(\.|^)comptia\.com$,1,1604696687,1613163967,""
-110,1,ecn.dev.virtualearth.net,1,1604731777,1609727847,"Added from Query Log"
 111,3,(\.|^)nsimg\.net$,1,1604812381,1609727847,""
 112,3,(\.|^)2020mustang\.com$,1,1604812450,1609727847,""
 113,3,(\.|^)ang-content\.com$,1,1604812523,1609727847,""
@@ -134,7 +133,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 232,0,mail.google.com,1,1614818869,1614818869,"Added from Query Log"
 233,1,consent.cookiebot.com,1,1614894836,1614894836,"Added from Query Log"
 234,3,(\.|^)chegg\.com$,1,1614900808,1614900808,
-240,1,files.ciditools.com,1,1615053691,1615053691,"Added from Query Log"
 243,0,connectivitycheck.gstatic.com,1,1615139711,1615139711,"Added from Query Log"
 245,3,(\.|^)avast\.com$,1,1615404435,1615404435,
 246,2,(\.|^)att\.com$,1,1615404448,1615404448,
@@ -171,3 +169,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 282,1,example.org,1,1619817032,1619817032,"Added from Query Log"
 283,1,thehustle.co,1,1619824472,1619824472,"Added from Query Log"
 284,1,www.vulture.com,1,1619824476,1619824476,"Added from Query Log"
+285,0,www.google-analytics.com,1,1621018788,1621018788,"Added from Query Log"
+287,0,files.ciditools.com,1,1621018794,1621018794,"Added from Query Log"
+289,1,content-autofill.googleapis.com,1,1621018925,1621018925,"Added from Query Log"
+290,0,ecn.dev.virtualearth.net,1,1621018946,1621018946,"Added from Query Log"
+291,0,cdn.branch.io,1,1621019039,1621019039,"Added from Query Log"
+292,0,bam.nr-data.net,1,1621019043,1621019043,"Added from Query Log"
