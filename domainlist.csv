@@ -175,3 +175,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 290,0,ecn.dev.virtualearth.net,1,1621018946,1621018946,"Added from Query Log"
 291,0,cdn.branch.io,1,1621019039,1621019039,"Added from Query Log"
 292,0,bam.nr-data.net,1,1621019043,1621019043,"Added from Query Log"
+293,0,mail.yahoo.com,1,1621371483,1621371483,"Added from Query Log"
+294,0,geo.query.yahoo.com,1,1621371614,1621371614,"Added from Query Log"
+295,0,geo.yahoo.com,1,1621371616,1621371616,"Added from Query Log"
+296,0,s.yimg.com,1,1621371619,1621371619,"Added from Query Log"
