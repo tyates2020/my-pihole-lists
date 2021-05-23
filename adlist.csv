@@ -1,3 +1,3 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1599767346,1610332842,"Migrated from /etc/pihole/adlists.list",1621132205,80993,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1599767346,1610332842,"Migrated from /etc/pihole/adlists.list",1621737004,81590,0,1
 12,https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt,1,1599769219,1610332843,"",1619811375,2056,0,2
