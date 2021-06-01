@@ -8,3 +8,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 10,1,profile.xboxlive.com,1,1622163523,1622163523,"Added from Query Log"
 11,3,(\.|^)spotify$,1,1622164661,1622164661,
 13,0,dns.msftncsi.com,1,1622170270,1622170270,"Added from Query Log"
+14,1,www.vanityfair.com,1,1622563730,1622563730,"Added from Query Log"
